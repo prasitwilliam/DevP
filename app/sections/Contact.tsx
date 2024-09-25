@@ -40,7 +40,7 @@ const Contact = () => {
               }
             />
             <Link
-              href="mailto:nathanjohnson0428@gmail.com?subject=Project Collaboration&body=I%20am%20very%20impressive%20from%20your%20portfolio.%20Let's%20together%20with%20us%20for%20the%20specific%20project.%20I%20am%20going%20to%20explain%20about%20the%20project%20in%20call.%20Reach%20out%20as%20soon%20as%20you%20can."
+              href="mailto:vplachejda@gmail.com?subject=Project Collaboration&body=I%20am%20very%20impressive%20from%20your%20portfolio.%20Let's%20together%20with%20us%20for%20the%20specific%20project.%20I%20am%20going%20to%20explain%20about%20the%20project%20in%20call.%20Reach%20out%20as%20soon%20as%20you%20can."
               target="_blank"
               aria-label="Contact via email"
               className="mt-1 w-[147px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[147px] md:mt-3 md:w-[170px] lg:mt-4"
